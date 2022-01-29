@@ -1,4 +1,4 @@
-# one theme for typora
+# theme for typora
 
 ## ScreenShot
 
